@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reverse Lookup Phone Numbers</string>
+    <string name="reverse_lookup_uri_label">URI of the reverse lookup service</string>
+    <string name="save">Save</string>
+    <string name="configuration_saved">Configuration saved.</string>
+    <string name="reverse_lookup_service_started">Reverse lookup of phone numbers started.</string>
+
+</resources>
